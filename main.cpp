@@ -165,7 +165,7 @@ int main()
         cout << "This is a heap" << endl;
     } else {
         cout << "This is NOT a heap" << endl;
-        heap = heapify(heap, size);
+        heap = heapify(heap, size + 1);
         cout << "Heap constructed: ";
         printHeap(heap, size);
     }

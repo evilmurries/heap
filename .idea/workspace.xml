@@ -11,7 +11,10 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="336aa332-8bee-4025-8183-1309fce7b463" name="Default Changelist" comment="" />
+    <list default="true" id="336aa332-8bee-4025-8183-1309fce7b463" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/main.cpp" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -21,7 +24,11 @@
     <option name="formatViaClangd" value="false" />
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1YAb1wdS3KQEYGq0wkP29nJw9YA" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -48,7 +55,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1582388134906</updated>
-      <workItem from="1582388136894" duration="14596000" />
+      <workItem from="1582388136894" duration="14943000" />
+      <workItem from="1582409392110" duration="17000" />
     </task>
     <servers />
   </component>
@@ -56,22 +64,26 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1234" height="401" key="GridCell.Tab.0.bottom" timestamp="1582408641056">
+    <state x="419" y="444" key="FileChooserDialogImpl" timestamp="1582408965769">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="1234" height="401" key="GridCell.Tab.0.bottom/0.0.2560.1400@0.0.2560.1400" timestamp="1582408641056" />
-    <state width="1234" height="401" key="GridCell.Tab.0.center" timestamp="1582408641056">
+    <state x="419" y="444" key="FileChooserDialogImpl/0.0.2560.1400@0.0.2560.1400" timestamp="1582408965769" />
+    <state width="1234" height="401" key="GridCell.Tab.0.bottom" timestamp="1582408975710">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="1234" height="401" key="GridCell.Tab.0.center/0.0.2560.1400@0.0.2560.1400" timestamp="1582408641056" />
-    <state width="1234" height="401" key="GridCell.Tab.0.left" timestamp="1582408641056">
+    <state width="1234" height="401" key="GridCell.Tab.0.bottom/0.0.2560.1400@0.0.2560.1400" timestamp="1582408975710" />
+    <state width="1234" height="401" key="GridCell.Tab.0.center" timestamp="1582408975710">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="1234" height="401" key="GridCell.Tab.0.left/0.0.2560.1400@0.0.2560.1400" timestamp="1582408641056" />
-    <state width="1234" height="401" key="GridCell.Tab.0.right" timestamp="1582408641056">
+    <state width="1234" height="401" key="GridCell.Tab.0.center/0.0.2560.1400@0.0.2560.1400" timestamp="1582408975710" />
+    <state width="1234" height="401" key="GridCell.Tab.0.left" timestamp="1582408975710">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="1234" height="401" key="GridCell.Tab.0.right/0.0.2560.1400@0.0.2560.1400" timestamp="1582408641056" />
+    <state width="1234" height="401" key="GridCell.Tab.0.left/0.0.2560.1400@0.0.2560.1400" timestamp="1582408975710" />
+    <state width="1234" height="401" key="GridCell.Tab.0.right" timestamp="1582408975710">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="1234" height="401" key="GridCell.Tab.0.right/0.0.2560.1400@0.0.2560.1400" timestamp="1582408975710" />
     <state x="981" y="523" key="com.intellij.ide.util.TipDialog" timestamp="1582388137995">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
