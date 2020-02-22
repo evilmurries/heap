@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/cpiwa/Dropbox/CSUMB/cst370_algo/week8/heap-clion/main.cpp
+iostream
+-
+sstream
+-
+string
+-
+

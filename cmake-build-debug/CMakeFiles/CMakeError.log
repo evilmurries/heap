@@ -1,0 +1,19 @@
+Detecting CXX compiler ABI info failed to compile with the following output:
+Change Dir: C:/Users/cpiwa/Dropbox/CSUMB/cst370_algo/week8/heap-clion/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):nmake /nologo cmTC_9ac60\fast && 	"C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.24.28314\bin\HostX86\x86\nmake.exe" -f CMakeFiles\cmTC_9ac60.dir\build.make /nologo -L                  CMakeFiles\cmTC_9ac60.dir\build
+Building CXX object CMakeFiles/cmTC_9ac60.dir/CMakeCXXCompilerABI.cpp.obj
+	C:\PROGRA~2\MICROS~1\2019\COMMUN~1\VC\Tools\MSVC\1424~1.283\bin\Hostx86\x86\cl.exe @C:\Users\cpiwa\AppData\Local\Temp\nm6532.tmp
+CMakeCXXCompilerABI.cpp
+Linking CXX executable cmTC_9ac60.exe
+	"C:\Program Files\JetBrains\CLion 2019.3.4\bin\cmake\win\bin\cmake.exe" -E vs_link_exe --intdir=CMakeFiles\cmTC_9ac60.dir --rc=C:\PROGRA~2\WI3CF2~1\10\bin\100183~1.0\x86\rc.exe --mt=C:\PROGRA~2\WI3CF2~1\10\bin\100183~1.0\x86\mt.exe --manifests  -- C:\PROGRA~2\MICROS~1\2019\COMMUN~1\VC\Tools\MSVC\1424~1.283\bin\Hostx86\x86\link.exe /nologo @CMakeFiles\cmTC_9ac60.dir\objects1.rsp @C:\Users\cpiwa\AppData\Local\Temp\nm6581.tmp
+FINAL LINK: command "C:\PROGRA~2\MICROS~1\2019\COMMUN~1\VC\Tools\MSVC\1424~1.283\bin\Hostx86\x86\link.exe /nologo @CMakeFiles\cmTC_9ac60.dir\objects1.rsp /out:cmTC_9ac60.exe /implib:cmTC_9ac60.lib /pdb:C:\Users\cpiwa\Dropbox\CSUMB\cst370_algo\week8\heap-clion\cmake-build-debug\CMakeFiles\CMakeTmp\cmTC_9ac60.pdb /version:0.0 /machine:X86 /debug /INCREMENTAL /subsystem:console kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTFILE:CMakeFiles\cmTC_9ac60.dir/intermediate.manifest CMakeFiles\cmTC_9ac60.dir/manifest.res" failed (exit code 1104) with the following output:
+LINK : fatal error LNK1104: cannot open file 'cmTC_9ac60.exe'
+NMAKE : fatal error U1077: '"C:\Program Files\JetBrains\CLion 2019.3.4\bin\cmake\win\bin\cmake.exe"' : return code '0xffffffff'
+Stop.
+NMAKE : fatal error U1077: '"C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.24.28314\bin\HostX86\x86\nmake.exe"' : return code '0x2'
+Stop.
+
+
+
+

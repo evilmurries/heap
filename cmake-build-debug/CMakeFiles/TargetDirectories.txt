@@ -1,0 +1,3 @@
+C:/Users/cpiwa/Dropbox/CSUMB/cst370_algo/week8/heap-clion/cmake-build-debug/CMakeFiles/heap_clion.dir
+C:/Users/cpiwa/Dropbox/CSUMB/cst370_algo/week8/heap-clion/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/cpiwa/Dropbox/CSUMB/cst370_algo/week8/heap-clion/cmake-build-debug/CMakeFiles/rebuild_cache.dir
